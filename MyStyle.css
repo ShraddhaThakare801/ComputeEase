@@ -8,17 +8,16 @@ body {
     background-color: #FAE4E9;
 }
 
-
 .outerDiv {
     height: 70vh;
     width: 42vh;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #FFF7F8; /* Light background for calculator */
-    border-radius: 1rem; /* Rounded edges */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-    padding: 1rem; /* Space inside the container */
+    background-color: #FFF7F8; 
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    padding: 1rem; 
 }
 
 
@@ -43,7 +42,6 @@ body {
     width: 100%; 
 }
 
-
 .btn {
     height: 3rem; 
     width: 4rem; 
@@ -54,24 +52,24 @@ body {
     border-radius: 1rem;
     cursor: pointer;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
-    transition: background-color 0.3s ease; 
-	margin: 0.3rem 0 0.2rem 0;
+    margin: 0.3rem 0 0.2rem 0;
 }
 
 
 .btn:hover {
-    background-color: #402E2A; 
-	transform: scale(1.1);
+    background-color: #402E2A;
+    transform: scale(1.1);
 }
 
 .btn:active{
-	transform: scale(0.94);
+   transform: scale(0.94);
 }
+
 .hoverColor {
     background-color: #B56576; 
 }
 
-.hocerColorr:hover {
+.hocerColor:hover {
     background-color: #8E4451; 
 }
 
