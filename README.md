@@ -33,7 +33,7 @@ The purpose of this project is to create an easy-to-use web-based calculator tha
 ## How to Run
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/ShraddhaThakare801/calculator-project.git
+   git clone https://github.com/ShraddhaThakare801/ComputeEase.git
   
 2. Open the project folder and double-click on `index.html` to open the calculator in your browser.
 
